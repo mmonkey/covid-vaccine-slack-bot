@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "channel": "#test-covid-vaccine-bot",
   "latitude": 40.813616,
   "longitude": -96.7025955,

@@ -1,4 +1,6 @@
 .env
 venv/
+config/*.json
+!config/example.json
 
 .idea/
