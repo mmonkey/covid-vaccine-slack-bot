@@ -1,0 +1,7 @@
+version: '2'
+services:
+  covid-vaccine-slack-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: covid-vaccine-slack-bot

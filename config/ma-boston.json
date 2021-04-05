@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "channel": "#test-covid-vaccine-bot",
+  "latitude": 42.3600825,
+  "longitude": -71.0588801,
+  "radius": 10,
+  "states": ["MA"],
+  "test": true
+}
