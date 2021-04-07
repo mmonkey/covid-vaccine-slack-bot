@@ -12,6 +12,15 @@ Special thanks to [vaccinespotter.org](https://www.vaccinespotter.org/)
 2. [Docker Compose](https://docs.docker.com/compose/install/)
 
 
+## Getting Started
+
+1. [Create a new Slack App](https://api.slack.com/start).
+2. Add the `chat:write` scope from the Oauth & Permissions page.
+3. Record the `Bot User Oauth Token` from the Oauth & Permissions page for later use. See [Environment variables](#environment-variables).
+4. Add your desired locaion(s). See [Adding new locations](#adding-new-locations).
+5. Run the bot. See [Running the bot](#running-the-bot).
+
+
 ## Adding new locations
 
 To add a new location to be searched by the Slack bot, create a new json file in the "config" directory. For this
